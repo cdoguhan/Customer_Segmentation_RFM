@@ -1,4 +1,4 @@
-# Customer_Segmentation_RFM
+# Customer Segmentation with RFM
 
 ### Business Problem
 An e-commerce company wants to segment its customers and determine marketing strategies according to these segments.
