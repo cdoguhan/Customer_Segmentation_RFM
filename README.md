@@ -1,5 +1,9 @@
 # Customer_Segmentation_RFM
 
+### Business Problem
+An e-commerce company wants to segment its customers and determine marketing strategies according to these segments.
+
+So, we will define the behavior of customers and create groups according to clusters in these behaviors.
 ### Dataset Information
 - - -
 https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
